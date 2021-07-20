@@ -336,8 +336,8 @@
         "field4": "unknown",
         "chapters": [
           {
-            "chapName": "Episode 1",
-            "openInWebView": true,
+            "chapName": "Romance Dawn 01: The Dawn of Adventure",
+            "openInWebView": false,
             "link": {
               "url": "https://onepace123.s3.us-east-2.amazonaws.com/Romance+Dawn/Romance+Dawn+01+-+The+Dawn+of+Adventure.mp4",
               "method": "get",
