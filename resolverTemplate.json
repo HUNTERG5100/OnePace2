@@ -3,10 +3,10 @@
     "resolverName": "OnePace",
     "nameMatches": [
       ""
-    ],
+    ], 
     "developer": "hunter",
     "moduleID": "453453534342",
-    "resolverVersion": 0.02,
+    "resolverVersion": 0.03,
     "baseURL": "https://raw.githubusercontent.com/HUNTERG5100/OnePace2/main/one_pace_links.json"
   },
   "resolver": [
