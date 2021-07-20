@@ -1,18 +1,46 @@
 {
-    "resolverInfo": {
-      "resolverName": "OnePace",
-      "nameMatches": [
-        ""
-      ],
-      "developer": "hunter",
-      "moduleID": "453453534342",
-      "resolverVersion": 0.01,
-      "baseURL": "https://raw.githubusercontent.com/HUNTERG5100/OnePace2/main/one_pace_links.json"
-    },
-    "resolver": [
+  "request": {
+    "url": "https://raw.githubusercontent.com/HUNTERG5100/OnePace2/main/one_pace_links.json",
+    "method": "get",
+    "headers": [
       {
-        "request": {
-          "url": "https://raw.githubusercontent.com/HUNTERG5100/OnePace2/main/one_pace_links.json",
+        "key": "key",
+        "value": "value"
+      }
+    ],
+    "httpBody": null
+  },
+  "extra": {
+    "commands": [
+      {
+        "commandName": "",
+        "params": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ]
+      }
+    ],
+    "extraInfo": [
+      {
+        "key": "",
+        "value": ""
+      }
+    ]
+  },
+  "javascriptConfig": {
+    "removeJavascript": false,
+    "loadInWebView": false,
+    "javaScript": ""
+  },
+  "output": {
+    "moduleID": "453453534342",
+    "video": [
+      {
+        "videoQuality": "Normal",
+        "videoLink": {
+          "url": "https://onepace123.s3.us-east-2.amazonaws.com/Romance+Dawn/Romance+Dawn+01+-+The+Dawn+of+Adventure.mp4",
           "method": "get",
           "headers": [
             {
@@ -21,50 +49,8 @@
             }
           ],
           "httpBody": null
-        },
-        "extra": {
-          "commands": [
-            {
-              "commandName": "",
-              "params": [
-                {
-                  "key": "",
-                  "value": ""
-                }
-              ]
-            }
-          ],
-          "extraInfo": [
-            {
-              "key": "",
-              "value": ""
-            }
-          ]
-        },
-        "javascriptConfig": {
-          "removeJavascript": false,
-          "loadInWebView": false,
-          "javaScript": ""
-        },
-        "output": {
-          "moduleID": "453453534342",
-          "video": [
-            {
-              "videoQuality": "720",
-              "videoLink": {
-                "url": "https://onepace123.s3.us-east-2.amazonaws.com/Romance+Dawn/Romance+Dawn+01+-+The+Dawn+of+Adventure.mp4",
-                "method": "get",
-                "headers": [
-                  {
-                    "key": "key",
-                    "value": "value"
-                  }
-                ],
-                "httpBody": null
-              }
-            }
-          ]
         }
       }
     ]
   }
+}
